@@ -81,7 +81,7 @@ Penjualan setiap bulannya tidak stabil dan mengalami penurunan, yang berarti tid
 ## I. Stackholder
 Pemilik Bakery
 
-## Link
+## J. Link
 * Github :
 * Linkedin :
 * Youtube : 
