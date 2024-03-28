@@ -13,7 +13,7 @@ Di distrik manakah lokasi pemesanan terbanyak?
 Menu apa yang sering dipesan?
 
 ## C. Goals
-		Memberikan rekomendasi bisnis yang tepat untuk pemilik toko bakery sehingga dapat meningkatkan sales sesuai dengan data yang dianalisis
+Memberikan rekomendasi bisnis yang tepat untuk pemilik toko bakery sehingga dapat meningkatkan sales sesuai dengan data yang dianalisis
 
 ## D. Penjelasan Dataset
 Dataset ini berisi kumpulan pesanan bakery di Korea melalui aplikasi food delivery “Bea Min” . Berikut penjelasan masing-masing kolomnya:
@@ -74,8 +74,8 @@ https://public.tableau.com/views/Project_DataViz_17114617749050/Dashboardsalestr
 
   
 ## G. Rekomendasi
-     * Trend penjualan di aplikasi “Bea Min” tidak mengalami peningkatan dan cenderung stagnan bahkan turun pada bulan-bulan terakhir. Perlu adanya sosialisasi dan pemasaran lebih lanjut agar orang-orang lebih           tahu dan mengenal bakery tersebut melalui aplikasi “Bea Min”
-    * Trend penjualan di tiga distrik terbesar (Dongmyeong, Hupyeong dan Seoksa) perlu dipertahankan bahkan ditingkatkan dengan cara meningkatkan pemasaran dan jika perlu membuka cabang baru online di distrik           tersebut. Penjualan Angbutter juga perlu ditingkatkan di distrik tersebut karena merupakan penyumbang penjualan terbesar, yaitu dengan cara memberikan promosi. Evaluasi menu yang kurang laku dengan cara cek       harga dan kualitas produk seperti rasa dan variasi.
+* Trend penjualan di aplikasi “Bea Min” tidak mengalami peningkatan dan cenderung stagnan bahkan turun pada bulan-bulan terakhir. Perlu adanya sosialisasi dan pemasaran lebih lanjut agar orang-orang lebih           tahu dan mengenal bakery tersebut melalui aplikasi “Bea Min”
+* Trend penjualan di tiga distrik terbesar (Dongmyeong, Hupyeong dan Seoksa) perlu dipertahankan bahkan ditingkatkan dengan cara meningkatkan pemasaran dan jika perlu membuka cabang baru online di distrik           tersebut. Penjualan Angbutter juga perlu ditingkatkan di distrik tersebut karena merupakan penyumbang penjualan terbesar, yaitu dengan cara memberikan promosi. Evaluasi menu yang kurang laku dengan cara cek       harga dan kualitas produk seperti rasa dan variasi.
 
 
 
