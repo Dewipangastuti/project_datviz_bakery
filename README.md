@@ -85,5 +85,5 @@ Manajer/Supervisor Bakery dan Pemilik/CEO Franchise Bakery
 
 ## J. Link
 * Linkedin : https://www.linkedin.com/in/dewi-pangastuti/
-* Youtube :
+* Youtube : https://youtu.be/79cKQI5tdnc 
 * Medium : https://medium.com/@dewipanga/project-data-visualization-analysis-of-sales-decline-in-bakery-on-bea-min-food-delivery-8e655e9f16e3
